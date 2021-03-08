@@ -110,5 +110,5 @@ let realFooter = document.querySelector('footer p')
 
 realFooter.textContent = "Copyright Great Idea! 2018"
 
-//hello
+//hello world
 
